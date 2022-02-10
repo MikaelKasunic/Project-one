@@ -156,10 +156,58 @@ background-size: cover;
     width: 33.3%;
 }
 
-#signup {
+#free h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Quicksand;
 
-    display: block;
-    
+}
+
+#signup label {
+    color: #000;
+    text-transform: uppercase;
+    font-family: Quicksand;
+    font-weight: bold;
+
+
+}
+
+#signup {
+    margin-top: 24px;
+}
+
+
+#fname {
+    color: #fff;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#lname {
+    color: #fff;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#email {
+    color: #fff;
+    margin-top: 8px;
+}
+
+#btn {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    margin-top: 16px;
+    font-size: 24px;
+    border-radius: 10%;
+}
+
+#btn:hover {
+    color: green;
+    transition: 0.5s;
+    opacity: 0.5s;
+
 }
 
 
