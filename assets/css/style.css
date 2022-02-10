@@ -156,7 +156,11 @@ background-size: cover;
     width: 33.3%;
 }
 
+#signup {
 
+    display: block;
+    
+}
 
 
 #footer {
@@ -216,5 +220,4 @@ th, td {
 
 i {
     color: cyan;
-    
 }
