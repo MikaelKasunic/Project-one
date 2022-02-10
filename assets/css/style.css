@@ -60,7 +60,8 @@ background-size: cover;
     margin: 4px;
     padding: 4px;
     text-decoration: none;
-    color:#fff
+    color:#fff;
+    font-family: Quicksand;
 }
 
 .nav-links a:hover {
@@ -96,20 +97,25 @@ background-size: cover;
 .h2 {
     font-style: Quicksand;
     text-transform: uppercase;
+    text-align: center;
 }
 
 #cf {
    color: #fff;
    height: 300px;
+   text-align: center;
+   
 }
 #join {
     color: #fff;
     height: 300px;
+    text-align: center;
     
 }
 #started {
     color: #fff;
     height: 300px;
+    text-align: center;
 }
 
 #free {
