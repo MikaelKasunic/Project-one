@@ -99,13 +99,13 @@ background-size: cover;
 }
 
 #cf {
-   color: black;
+   color: #fff;
    height: 300px;
 }
 #join {
-    color: grey;
+    color: #fff;
     height: 300px;
-    border: 2px solid yellow;
+    
 }
 #started {
     color: #fff;
@@ -114,8 +114,8 @@ background-size: cover;
 
 #free {
 
-    background-color: rgb(0, 247, 255, 0.4);
-    opacity: 1;
+    background-image: linear-gradient(to right, rgba(0, 255, 55, 0.822) , rgb(0, 0, 0));
+    border-radius: 15px 0px 0px 15px;
     width: 50%;
     height: 300px;
     overflow: hidden;
@@ -125,6 +125,38 @@ background-size: cover;
     margin-bottom: 25px;
     margin-top: 25px;
 }
+
+#icon-container {
+    height: 100px;
+    width: 100%;
+    display: inline-flex;
+    position: relative;
+    
+}
+
+#lift {
+    font-family: Quicksand;
+    color: #fff;
+    height: 100px;
+    width: 33.3%;
+    margin-left: 20%;
+}
+
+#eat {
+    font-family: Quicksand;
+    color: #fff;
+    height: 100px;
+    width: 33.3%;
+}
+
+#feel {
+    font-family: Quicksand;
+    color: #fff;
+    height: 100px;
+    width: 33.3%;
+}
+
+
 
 
 #footer {
