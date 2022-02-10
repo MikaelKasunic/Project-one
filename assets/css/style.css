@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Lato:wght@300&family=Oswald:wght@300&family=Quicksand:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#centerx {
+    color: cyan;
+    font-weight: bold;
+    font-size: 180%;
+    
+}
+
+body {
+background-image: linear-gradient(to right, rgb(97, 97, 97) , rgb(0, 0, 0));
+background-position: center;
+background-size: cover;
+
+}
+
+#logo {
+    display: flex;
+    float: left;
+    font-size: 60px;
+    color: #fff;
+    font-family: Quicksand;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    
+}
+
+.nav-links {
+
+    display: flex;
+    float: right;
+    padding-right: 50px;
+    padding-top: 20px;
+    list-style: none;
+    font-weight: bold;
+    font-style: Oswald;
+    text-transform: uppercase;
+}
+
+.nav-links ul {
+  display: inline-flex;
+  margin: 20px;
+  padding: 10px;
+}
+
+.nav-links a {
+    margin: 4px;
+    padding: 4px;
+    text-decoration: none;
+    color:#fff
+}
+
+#footer {
+    border: 5px outset cyan;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 20%;
+}
+
+#openhours {
+    width: 33.3%;
+    height: 100%;
+    display: flex;
+    float: left;
+    font-family: Quicksand;
+    font-weight: bold;
+    color: #fff;
+}
+
+#findus {
+    width: 33.3%;
+    height: 100%;
+    display: flex;
+    float: left;
+    font-family: Quicksand;
+    font-weight: bold;
+    color: #fff;
+}
+
+#followus {
+    width: 33.3%;
+    height: 100%;
+    display: flex;
+    float: left;
+    font-family: Quicksand;
+    font-weight: bold;
+    color: #fff;
+}
+
+th, td {
+    padding: 2px;
+}
+
+#google {
+    margin-top: 20px;
+}
+
+#followus ul li {
+   display: inline-block;
+   letter-spacing: 50px;
+   font-size: 300%;
+   margin-left: 5px;
+   margin-top: 25px;
+}
+
+i {
+    color: cyan;
+    
+}
