@@ -6,6 +6,38 @@
     box-sizing: border-box;
 }
 
+.nav-links {
+
+    display: flex;
+    float: right;
+    padding-right: 50px;
+    padding-top: 20px;
+    list-style: none;
+    font-weight: bold;
+    font-style: Oswald;
+    text-transform: uppercase;
+}
+
+.nav-links ul {
+  display: inline-flex;
+  margin: 20px;
+  padding: 10px;
+}
+
+.nav-links a {
+    margin: 4px;
+    padding: 4px;
+    text-decoration: none;
+    color:#fff;
+    font-family: Quicksand;
+}
+
+.nav-links a:hover {
+    color: red;
+    transition: 1s;
+    opacity: 1s;
+}
+
 body {
     background-image: linear-gradient(to right, rgb(90, 90, 90 ) , rgb(0, 0, 0));
 }
@@ -39,7 +71,7 @@ button {
 }
 
 button:hover {
-    color: cyan;
+    color: green;
 }
 
 
@@ -126,6 +158,58 @@ button:hover {
     list-style: none;
 }
 
+#info {
+    border: 1px solid #fff;
+    display: inline-block;
+    width: 370px;
+    height: 200px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#info h1 {
+    color: red;
+    font-family: Quicksand;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #fff;
+    text-align: center;
+
+}
+
+#info p {
+    color: #fff;
+    font-family: Quicksand;
+    text-align: center;
+
+}
+
+#cards {
+    
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20%;
+    font-size: 40px;
+    color: #fff;
+ 
+}
+
+
+#info:hover {
+background-image: linear-gradient(to right, rgb(100, 100, 100 ) , rgb(5, 5, 5));
+
+}
+
+#footer {
+    font-family: Quicksand;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+span {
+    color: red;
+}
 
 
 
