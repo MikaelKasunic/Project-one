@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Lato:wght@300&family=Oswald:wght@300&family=Quicksand:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(90, 90, 90 ) , rgb(0, 0, 0));
+}
+
+#twentyfour {
+    background-image: linear-gradient(to right, rgb(0, 0, 0 ) , rgb(90, 90, 90));
+    font-family: Quicksand;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 30%;
+    display: block;
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+   
+}
+
+#twentyfour ul {
+    list-style: none;
+}
+
+button {
+    color: black;
+    font-size: 24px;
+    
+}
+
+button:hover {
+    color: greenyellow;
+}
+
+#twelve {
+    background-image: linear-gradient(to right, rgb(0, 0, 0 ) , rgb(90, 90, 90));
+    font-family: Quicksand;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 30%;
+    display: block;
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+   
+}
+
+#twelve ul {
+    list-style: none;
+}
+
+button {
+    color: black;
+    font-size: 24px;
+    
+}
+
+button:hover {
+    color: greenyellow;
+}
+
+#six {
+    background-image: linear-gradient(to right, rgb(0, 0, 0 ) , rgb(90, 90, 90));
+    font-family: Quicksand;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 30%;
+    display: block;
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+   
+}
+
+#six ul {
+    list-style: none;
+}
+
+button {
+    color: black;
+    font-size: 24px;
+    
+}
+
+button:hover {
+    color: greenyellow;
+}
+
+#three {
+    background-image: linear-gradient(to right, rgb(0, 0, 0 ) , rgb(90, 90, 90));
+    font-family: Quicksand;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 30%;
+    display: block;
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+   
+}
+
+#three ul {
+    list-style: none;
+}
+
+button {
+    color: black;
+    font-size: 24px;
+    
+}
+
+button:hover {
+    color: greenyellow;
+}
+
+#under {
+    background-image: linear-gradient(to right, rgb(0, 0, 0 ) , rgb(90, 90, 90));
+    font-family: Quicksand;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 30%;
+    display: block;
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid #fff;
+   
+}
+
+#under ul {
+    list-style: none;
+}
+
+button {
+    color: black;
+    font-size: 24px;
+    
+}
+
+button:hover {
+    color: greenyellow;
+}
+
+
+
+
+
+
+
+
