@@ -26,7 +26,7 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
   - The font style is distinctly so the user can easily navigate and read the menu
   - The user can navigate between the different pages across all devices.
 
-(/workspace/Project-one/assets/images/navbar.png)
+![Nav Bar](https://github.com/MikaelKasunic/Project-one/blob/assets/images/navbar1.jpg)
 
 - __The landing page image__
 
