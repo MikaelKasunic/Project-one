@@ -1,7 +1,7 @@
 # Crossfit X Town
 
 Crossfit X Town is a site to present our workout facillity and all information needed to get started with Crossfit. You can purchase a membership, sign up for a try-out session or just read about Crossfit in general.
-Crossfit its beneficial for every person and we gladly introduce our visitors to this platform.  
+Crossfit its beneficial for every person and we gladly introduce our users to this platform.  
 
 ![Responsice Mockup](https://github.com/MikaelKasunic/Project-one/blob/8b8b9c90c250db97a62fa68b42225099e97d4302/assets/images/ami.jpg)
 
@@ -10,62 +10,66 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
 
 - __Design__
 
-  - The colors displayes visual effects with maintaining easy navigation throughout the pages
-  - The options on the page is clear, and no extra information to disturb the user
-  - The contrast between colors are very clear for the user so there is no parts that is disturbing to read
-  - Video is NOT set to autoplay, so the user can decide for themselves to play the video or not
+  - The colors displayes visual effects with maintaining easy navigation throughout the pages.
+  - The options on the page is clear, and no extra information to disturb the user.
+  - The contrast between colors are very clear for the user so there is no parts that is disturbing to read.
+  - Video is NOT set to autoplay, so the user can decide for themselves to play the video or not.
 
 
-## Features 
+# Features 
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - The navigation bar will allow the user with ease navigate throughout the whole website 
-  - The font style is distinctly so the user can easily navigate and read the menu
+  - The navigation bar will allow the user with ease navigate throughout the whole website.
+  - The font style is distinctly so the user can easily navigate and read the menu.
   - The user can navigate between the different pages across all devices.
 
 ![Nav Bar](https://github.com/MikaelKasunic/Project-one/blob/41ec8c36b0ca678345d838ba8bd369945fd41b93/assets/images/navbar1.jpg)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The first page image when the user arrives to the website, gives the user who sought for Crossfit facilities a instant confirmation that this website is what they searched for.
+  
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page/image](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __Introduction section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The first section will give the user a easy-to-understand information.
+  - Before the user with non or little Crossfit experience navigate  throughout the website, they have a little sense of why Crossfit? Am I good enough as a beginner? How do I get started?
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![section1](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Sign up for a free try-out session__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
+  - This section will allow the user to easily sign up for a free try-out session without have to spend to much time and effort. Just name and mail address and they will get back to them with instrcutions etc.
   - This section will be updated as these times change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![sign up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  ### 3 Section Footer
+
+  - Social media for the user to follow for information, images, events etc.
+  - Open hours for the facility.
+  - Google maps with pin-point direction to the facility.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __Crossfit History__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The history page will explain to the user how and when Crossfit was founded. 
+  - This page will also describe what Crossfit is now including a explanatory video in the beginning. 
+  - The images with footnotes gives the user a understanding for a Crossfit session in group.
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __Membership__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will by great combination of colors and simplified layout, allow the user to purchase a membership without any disturbing content.
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
@@ -75,7 +79,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- A workout schedule for the members with booking options.
 
 ## Testing 
 
