@@ -246,7 +246,8 @@ body {
 #openhours {
     width: 33.3%;
     height: 100%;
-    display: inline-block;
+    display: flex;
+    float: left;
     font-family: Quicksand;
     font-weight: bold;
     color: #fff;
@@ -336,19 +337,19 @@ i {
        
 }
 
-/* for medium screen sizes from 930px wide and down */
-@media screen and (max-width: 930px) {
+/* for medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
     #nav-small {
         float: left;
         clear: left;
-        margin-left: 20px;
-        margin-bottom: 20px;
+        margin-left: 10px;
+        margin-bottom: 10px;
 
     }
 }
 
-/* for medium screen sizes from 740px wide and down */
-@media screen and (max-width: 740px) {
+/* for medium screen sizes from 560px wide and down */
+@media screen and (max-width: 560px) {
     #sectiontwo {
         display: flex;
         flex-direction: column;
@@ -359,15 +360,42 @@ i {
         width: 90%;
         margin-bottom: 5px;
     }
- 
-}
 
-/* for medium screen sizes from 550px wide and down */
-@media screen and (max-width: 550px) {
-
+    
     #logo {
         display: none;
     }
+
+    
+    #footer-container {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+ 
+}
+
+/* for medium screen sizes from px wide and down */
+@media screen and (max-width: 490px) {
+    #free {
+        height: 100%;
+    }
+
+    #icon-container {
+        display: flex;
+        flex-direction: column;
+        
+      }
+
+      #icon-container, #lift, #eat, #feel {
+       margin: 0 auto;
+      }
+
+      #openhours, #findus, #followus {
+          margin: 0 auto;
+      }
 
 }
 
