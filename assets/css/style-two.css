@@ -158,7 +158,7 @@ button:hover {
     list-style: none;
 }
 
-#info {
+#info-pay {
     border: 1px solid #fff;
     display: inline-block;
     width: 370px;
@@ -168,7 +168,7 @@ button:hover {
     margin-top: 20px;
 }
 
-#info h1 {
+#info-pay h1 {
     color: red;
     font-family: Quicksand;
     text-transform: uppercase;
@@ -177,7 +177,7 @@ button:hover {
 
 }
 
-#info p {
+#info-pay p {
     color: #fff;
     font-family: Quicksand;
     text-align: center;
@@ -195,7 +195,7 @@ button:hover {
 }
 
 
-#info:hover {
+#info-pay:hover {
     background-image: linear-gradient(to right, rgb(100, 100, 100), rgb(5, 5, 5));
 
 }
@@ -226,3 +226,35 @@ button:hover {
 #mailzoom:hover {
     transform: scale(1.5);
 }
+
+/* for medium screen sizes from 420px wide and down */
+@media screen and (max-width: 420px) {
+    #nav-links {
+        float: left;
+        clear: left;
+
+    }
+
+    #header {
+        width: fit-content;
+    }
+
+    #info-pay {
+   
+        width: fit-content;
+    }
+
+    #cards {
+        width: fit-content;
+        display: flex;
+        text-align: center;
+        letter-spacing: 2px;
+    }
+
+}
+
+
+
+
+
+
