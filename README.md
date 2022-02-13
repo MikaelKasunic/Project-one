@@ -6,6 +6,14 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
 ![Responsice Mockup](https://github.com/MikaelKasunic/Project-one/blob/8b8b9c90c250db97a62fa68b42225099e97d4302/assets/images/ami.jpg)
 
 
+## User Experince
+
+# User Design
+
+- The colors displayes visual effects with maintaining easy navigation throughout the pages
+- The options on the page is clear, and no extra information to disturb the user
+- The contrast between colors are very clear for the user so there is no parts that is disturbing to read
+- Video is NOT set to autoplay, so the user can decide for themselves to play the video or not
 
 ## Features 
 
