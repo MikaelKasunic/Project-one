@@ -3,7 +3,9 @@
 Crossfit X Town is a site to present our workout facillity and all information needed to get started with Crossfit. You can purchase a membership, sign up for a try-out session or just read about Crossfit in general.
 Crossfit its beneficial for every person and we gladly introduce our visitors to this platform.  
 
-![Responsice Mockup](https://github.com/mikaelkasunic/readme-template/blob/assets/images/ami.jpg)
+![Responsice Mockup](https://github.com/MikaelKasunic/Project-one/blob/8b8b9c90c250db97a62fa68b42225099e97d4302/assets/images/ami.jpg)
+
+
 
 ## Features 
 
