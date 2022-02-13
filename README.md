@@ -10,10 +10,10 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
 
 - __Design__
 
-- The colors displayes visual effects with maintaining easy navigation throughout the pages
-- The options on the page is clear, and no extra information to disturb the user
-- The contrast between colors are very clear for the user so there is no parts that is disturbing to read
-- Video is NOT set to autoplay, so the user can decide for themselves to play the video or not
+  - The colors displayes visual effects with maintaining easy navigation throughout the pages
+  - The options on the page is clear, and no extra information to disturb the user
+  - The contrast between colors are very clear for the user so there is no parts that is disturbing to read
+  - Video is NOT set to autoplay, so the user can decide for themselves to play the video or not
 
 
 ## Features 
@@ -26,7 +26,7 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
   - The font style is distinctly so the user can easily navigate and read the menu
   - The user can navigate between the different pages across all devices.
 
-![Nav Bar](https://github.com/MikaelKasunic/Project-one/blob/assets/images/navbar1.jpg)
+![Nav Bar](https://github.com/MikaelKasunic/Project-one/blob/41ec8c36b0ca678345d838ba8bd369945fd41b93/assets/images/navbar1.jpg)
 
 - __The landing page image__
 
