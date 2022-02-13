@@ -236,19 +236,17 @@ body {
 
 
 #footer {
-    border: 5px outset cyan;
-    position: relative;
-    margin-bottom: 0px;
+
+    display: inline-block;
     width: 100%;
-    height: 140px;
+    
 
 }
 
 #openhours {
     width: 33.3%;
     height: 100%;
-    display: flex;
-    float: left;
+    display: inline-block;
     font-family: Quicksand;
     font-weight: bold;
     color: #fff;
@@ -286,7 +284,7 @@ td {
 #followus ul li {
     display: inline-block;
     letter-spacing: 50px;
-    font-size: 200%;
+    font-size: 50px;
     margin-left: 5px;
     margin-top: 25px;
 }
@@ -295,138 +293,84 @@ i {
     color: cyan;
 }
 
-#copyright {
-    color: #fff;
-    left: 90%;
-    bottom: 5%;
-    position: absolute;
 
-}
+
 
 /* for medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-    #sectiontwo {
-        width: 65%;
-        height: 400px;
-        margin: 0 auto;
-        margin-left: 160px;
+   #sectiontwo {
+       display: flex;
+       flex-direction: column;
+   }
 
-    }
+   #cf, #join, #started {
+       margin: 0 auto;
+       width: 90%;
+   }
 
-    #cf,
-    #join,
-    #started {
-        position: block;
-        width: 100%;
+   #footercontainer {
+       display: flex;
+       flex-direction: column;
+       
+       
+   }
 
+   #openhours {
+     margin: 0 auto;
+     text-align: left;
+     
+   }
 
+   #findus {
+     margin: 0 auto;
+     text-align: center;
+     
+   }
 
-    }
+   #followus {
+       margin: 0 auto;
+       text-align: center;
+       
+   }
 
-    #footer {
-        width: 100%;
-        clear: both;
-        height: 200px;
-
-    }
-
-    #openhours {
-        display: block;
-    }
-
-    #findus {}
-
-    #followus {
-        display: block;
-    }
-
-
+       
 }
 
-/* for medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-
-    #sectiontwo {
-        width: 65%;
-        height: 400px;
-        margin: 0 auto;
-        margin-left: 160px;
-        display: block;
-        height: 905px;
-    }
-
-    .nav-links {
+/* for medium screen sizes from 930px wide and down */
+@media screen and (max-width: 930px) {
+    #nav-small {
         float: left;
-        margin-left: 280px;
-        margin-bottom: 25px;
-    }
+        clear: left;
+        margin-left: 20px;
+        margin-bottom: 20px;
 
-    #logo {
-        margin-left: 160px;
     }
+}
 
-    #free {
+/* for medium screen sizes from 740px wide and down */
+@media screen and (max-width: 740px) {
+    #sectiontwo {
+        display: flex;
+        flex-direction: column;
+    }
+ 
+    #cf, #join, #started {
         margin: 0 auto;
-        margin-bottom: 25px;
+        width: 90%;
+        margin-bottom: 5px;
     }
-
+ 
 }
 
-/* for medium screen sizes from 800px wide and down */
-@media screen and (max-width: 800px) {
-
-    #footer {
-        width: 100%;
-        clear: both;
-        height: 200px;
-
-
-    }
-
-    footer i {
-        font-size: 24px;
-    }
-
-
-    #openhours {
-        display: block;
-    }
-
-    #findus {
-        display: block;
-    }
-
-    #followus {
-        display: block;
-    }
-
-    #google {
-        padding-top: 20px;
-        margin: 0 auto;
-    }
-
-    .nav-links {
-        margin-left: 220px
-    }
+/* for medium screen sizes from 550px wide and down */
+@media screen and (max-width: 550px) {
 
     #logo {
-
-        margin-left: 100px
-    }
-
-
-}
-
-/* for medium screen sizes from 600px wide and down */
-@media screen and (max-width: 600px) {
-
-    .nav-links {
-        margin-left: 0px;
-    }
-
-    #logo {
-
-        margin-left: 0px;
+        display: none;
     }
 
 }
+
+
+
+    
