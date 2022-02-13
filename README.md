@@ -6,9 +6,9 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
 ![Responsice Mockup](https://github.com/MikaelKasunic/Project-one/blob/8b8b9c90c250db97a62fa68b42225099e97d4302/assets/images/ami.jpg)
 
 
-### User Experince
+# UX
 
-- __User Design__
+## Design
 
 - The colors displayes visual effects with maintaining easy navigation throughout the pages
 - The options on the page is clear, and no extra information to disturb the user
