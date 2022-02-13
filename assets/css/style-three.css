@@ -138,3 +138,27 @@ img {
 #photos hr {
     margin-bottom: 50px;
 }
+
+/* for medium screen sizes from 990px wide and down */
+@media screen and (max-width: 990px) {
+    #nav-links-small {
+        float: left;
+        clear: left;
+        max-width: fit-content;
+        margin-bottom: 20px;
+        
+}
+
+iframe {
+   width: 100%;
+}
+
+}
+
+/* for medium screen sizes from 620px wide and down */
+@media screen and (max-width: 620px) {
+    #logo {
+        display: none;
+    }
+}
+
