@@ -6,27 +6,27 @@ Crossfit its beneficial for every person and we gladly introduce our visitors to
 ![Responsice Mockup](https://github.com/MikaelKasunic/Project-one/blob/8b8b9c90c250db97a62fa68b42225099e97d4302/assets/images/ami.jpg)
 
 
-# UX
+# User Experience
 
-## Design
+- __Design__
 
 - The colors displayes visual effects with maintaining easy navigation throughout the pages
 - The options on the page is clear, and no extra information to disturb the user
 - The contrast between colors are very clear for the user so there is no parts that is disturbing to read
 - Video is NOT set to autoplay, so the user can decide for themselves to play the video or not
 
-## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## Features 
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The navigation bar will allow the user with ease navigate throughout the whole website 
+  - The font style is distinctly so the user can easily navigate and read the menu
+  - The user can navigate between the different pages across all devices.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+(/workspace/Project-one/assets/images/navbar.png)
 
 - __The landing page image__
 
