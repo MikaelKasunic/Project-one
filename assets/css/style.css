@@ -46,7 +46,7 @@ body {
     padding-top: 20px;
     list-style: none;
     font-weight: bold;
-    font-style: Oswald;
+    font-family: Oswald;
     text-transform: uppercase;
 }
 
@@ -67,7 +67,7 @@ body {
 .nav-links a:hover {
     color: cyan;
     transition: 1s;
-    opacity: 1s;
+    opacity: 1;
 }
 
 #herosection {
@@ -95,7 +95,7 @@ body {
 
 }
 
-#sectiontwo h1 {
+#sectiontwo h2 {
     font-family: Quicksand;
     text-transform: uppercase;
     text-align: center;
@@ -180,7 +180,7 @@ body {
     width: 33.3%;
 }
 
-#free h1 {
+#free h2 {
     color: #fff;
     text-transform: uppercase;
     font-family: Quicksand;
@@ -230,7 +230,7 @@ body {
 #btn:hover {
     color: green;
     transition: 0.5s;
-    opacity: 0.5s;
+    opacity: 1;
 
 }
 
@@ -280,6 +280,9 @@ td {
 
 #google {
     margin-top: 20px;
+    width: 70%;
+    height: 70%;
+    border: none;
 }
 
 #followus ul li {
@@ -294,6 +297,9 @@ i {
     color: cyan;
 }
 
+#heroo {
+    display: none;
+}
 
 
 

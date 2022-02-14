@@ -52,8 +52,6 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 - __The Footer__ 
 
-  ### 3 Section Footer
-
   - Social media for the user to follow for information, images, events etc.
   - Open hours for the facility.
   - Google maps with pin-point direction to the facility.
@@ -90,8 +88,6 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 - This image will give the user a visual explanation of a Crossfit group session.
 
-
-
 - __Membership__
 
   - This page will by great combination of colors and simplified layout, allow the user to purchase a membership without any disturbing content.
@@ -99,10 +95,6 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 ![Membership](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/membershipcards.jpg)
 
 - This scrollbar section with different options of membership payments will provide the user simplicity and easy to read information.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
@@ -119,17 +111,17 @@ In addition, you may also use this section to discuss plans for additional featu
 - GitPod for developing the code
 - GitHub for deploying the project
 - Code Institute modules 
+- 
 
 ## Testing 
 
-
-
-
+Tested the HTML and CSS code with no ERRORS
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html#textarea)
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 

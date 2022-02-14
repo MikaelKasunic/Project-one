@@ -14,7 +14,7 @@
     padding-top: 20px;
     list-style: none;
     font-weight: bold;
-    font-style: Oswald;
+    font-family: Oswald;
     text-transform: uppercase;
 }
 
@@ -35,7 +35,7 @@
 .nav-links a:hover {
     color: red;
     transition: 1s;
-    opacity: 1s;
+    opacity: 1;
 }
 
 body {
