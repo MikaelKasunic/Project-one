@@ -145,15 +145,15 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 - Problem with favicon image at first, problem is solved.
 
 
-### Deployment
+# Deployment
 
-# Develop project
+## Develop project
 
 - Open a repository in Gitpod
 - Click the Green "Gitpod" button
 - ReOpen from  "workspaces" at gitpod.io
 
-# SAVE - COMMIT - PUSH
+## SAVE - COMMIT - PUSH
 
 - When changes in files are made, save first (ctrl+s)
 - Into the terminal/command line 
