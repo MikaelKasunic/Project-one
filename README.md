@@ -11,6 +11,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 - __Design__
 
   - The colors displayes visual effects with maintaining easy navigation throughout the pages.
+  - The font styles are clear and easy to read
   - The options on the page is clear, and no extra information to disturb the user.
   - The contrast between colors are very clear for the user so there is no parts that is disturbing to read.
   - Video is NOT set to autoplay, so the user can decide for themselves to play the video or not.
@@ -40,14 +41,14 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
   - The first section will give the user a easy-to-understand information.
   - Before the user with non or little Crossfit experience navigate  throughout the website, they have a little sense of why Crossfit? Am I good enough as a beginner? How do I get started?
 
-![section1](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/section1.png)
+![Section One](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/section1.png)
 
 - __Sign up for a free try-out session__
 
   - This section will allow the user to easily sign up for a free try-out session without have to spend to much time and effort. Just name and mail address and they will get back to them with instrcutions etc.
   - This section will be updated as these times change to keep the user up to date. 
 
-![sign up](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/signup.png)
+![Sign Up](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/signup.png)
 
 - __The Footer__ 
 
@@ -57,7 +58,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
   - Open hours for the facility.
   - Google maps with pin-point direction to the facility.
 
-![Footer](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/footer1.png)
+![Footer](https://github.com/MikaelKasunic/Project-one/blob/8fae205cd52e965399dfe2caea4f79aaecf6e6ac/assets/images/footerone.jpg)
 
 - __Crossfit History__
 
@@ -65,17 +66,29 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
   - This page will also describe what Crossfit is now including a explanatory video in the beginning. 
   - The images with footnotes gives the user a understanding for a Crossfit session in group.
 
-![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/historysection1.jpg)
+![Crossfit History](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/historysection1.jpg)
+ 
+ - This section gives the user a brief Crossfit history lesson.
 
-![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/historysection2.png)
+![Crossfit History](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/historysection2.png)
 
-![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/video.png)
+- This section gives the user a brief information what Crossfit has developed into over the years.
 
-![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/ranch.jpg)
+![Crossfit History](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/video.png)
 
-![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/group.jpg)
+- The video section is available for the user to not only have the theory way of knowing, also hear someone explain Crossfit in general.
 
-![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/group2.jpg)
+![Crossfit History](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/ranch.jpg)
+
+- This image will give the user that nostalgic feeling of Crossfit.
+
+![Crossfit History](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/group.jpg)
+
+- This image will give the user a visual explanation of a Crossfit group session.
+
+![Crossfit History](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/group2.jpg)
+
+- This image will give the user a visual explanation of a Crossfit group session.
 
 
 
@@ -83,7 +96,9 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
   - This page will by great combination of colors and simplified layout, allow the user to purchase a membership without any disturbing content.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Membership](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/membershipcards.jpg)
+
+- This scrollbar section with different options of membership payments will provide the user simplicity and easy to read information.
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -93,15 +108,22 @@ In addition, you may also use this section to discuss plans for additional featu
 
 - A workout schedule for the members with booking options.
 
+### Technologies used to create this project
+
+- Google Chrome webbrowser during the whole process
+- HTML and CSS to make this static Front-End project
+- FontAwesome web page for icons
+- Pxhere.com and Pexels.com for images
+- Youtube.com for videos
+- DevTools for checking/developing the code
+- GitPod for developing the code
+- GitHub for deploying the project
+- Code Institute modules 
+
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
@@ -113,7 +135,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+
 
 ## Deployment
 
