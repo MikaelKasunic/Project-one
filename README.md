@@ -30,24 +30,24 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 - __The landing page image__
 
-  - The first page image when the user arrives to the website, gives the user who sought for Crossfit facilities a instant confirmation that this website is what they searched for.
+  - The landing page image combined with the navbar gives the user who sought for Crossfit facilities a instant confirmation that this website is what they searched for.
   
 
-![Landing Page/image](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page/image](https://github.com/MikaelKasunic/Project-one/blob/e557d0f2bb0fc5b6e1ea14258a05a01b0544adfc/assets/images/hero-image1.jpg)
 
 - __Introduction section__
 
   - The first section will give the user a easy-to-understand information.
   - Before the user with non or little Crossfit experience navigate  throughout the website, they have a little sense of why Crossfit? Am I good enough as a beginner? How do I get started?
 
-![section1](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![section1](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/section1.png)
 
 - __Sign up for a free try-out session__
 
   - This section will allow the user to easily sign up for a free try-out session without have to spend to much time and effort. Just name and mail address and they will get back to them with instrcutions etc.
   - This section will be updated as these times change to keep the user up to date. 
 
-![sign up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![sign up](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/signup.png)
 
 - __The Footer__ 
 
@@ -57,7 +57,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
   - Open hours for the facility.
   - Google maps with pin-point direction to the facility.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/footer1.png)
 
 - __Crossfit History__
 
@@ -65,7 +65,19 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
   - This page will also describe what Crossfit is now including a explanatory video in the beginning. 
   - The images with footnotes gives the user a understanding for a Crossfit session in group.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/historysection1.jpg)
+
+![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/historysection2.png)
+
+![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5214509026408300dda2189c952cb5f85603ec8c/assets/images/video.png)
+
+![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/ranch.jpg)
+
+![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/group.jpg)
+
+![Gallery](https://github.com/MikaelKasunic/Project-one/blob/5f04108addb2e0c5a50cb7d635366c610bc5e95f/assets/images/group2.jpg)
+
+
 
 - __Membership__
 
