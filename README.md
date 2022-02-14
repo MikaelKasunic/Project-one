@@ -111,6 +111,8 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 - GitPod for developing the code
 - GitHub for deploying the project
 - Code Institute modules 
+- Google
+- W3 Schools
 
 ### Testing 
 
@@ -122,7 +124,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 - Tested different screen widths using several devices such as Iphone SE, Samsung Galaxy S8+, Ipad Mini
 
-- Tested that navigation menu, inputs, videos etc. works well
+- Tested that navigation menus, inputs, videos etc. working
 
 - Debugging
 
@@ -145,7 +147,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 ### Deployment
 
-- __Develop Project__
+# Develop project
 
 - Open a repository in Gitpod
 - Click the Green "Gitpod" button
@@ -169,17 +171,19 @@ The live link can be found here - https://8000-mikaelkasunic-projectone-ffqzsz56
 
 ### Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+- Basic structure and ideas from the Love Running Project.
+- Tutor for amazing support.
+- Code Institute the whole organisation and the course itself.
+- Chris, Sara, Patrik among other super helpful people at Slack.
+- W3 schools.
+- My wife and kids for endless support when things is hard and self-reliance is at the very bottom!
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+### Content and Media
 
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Most content written by Mikael Kasunic.
+- Crossfit History content were taken from [Wikipedia] (https://en.wikipedia.org/wiki/CrossFit#History)
+- The video is from youtube [Youtube] (https://www.youtube.com/watch?v=47KsUtsiHV0&t=1s)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- All images are taken from (https://pxhere.com) and (https://pexels.com)
+- Google fonts were used for the page: Quicksand and Lato
+- Inspiration from many different gym websites.
