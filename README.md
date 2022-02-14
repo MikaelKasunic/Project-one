@@ -137,7 +137,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-  ![Lighthouse](https://github.com/MikaelKasunic/Project-one/blob/cb55033f8dd6eefd63c6910d5a22a2f7119d874e/assets/images/lighthouse.jpg)
+  ![Lighthouse](https://github.com/MikaelKasunic/Project-one/blob/dceeca1a2f35577577a18b18923fec3bc45b9436/assets/images/lighthouse1.jpg)
 
 ### Unfixed Bugs
 
