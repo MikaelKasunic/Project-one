@@ -113,9 +113,20 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 - Code Institute modules 
 - 
 
-## Testing 
+### Testing 
 
-Tested the HTML and CSS code with no ERRORS
+- Tested the HTML and CSS code with no ERRORS
+
+- Tested with different browsers (Google Chrome, Edge, Firefox)
+
+- Tested different screen widths using devtools
+
+- Tested different screen widths using several devices such as Iphone SE, Samsung Galaxy S8+, Ipad Mini
+
+- Tested that navigation menu, inputs, videos etc. works well
+
+- Debugging
+
 
 ### Validator Testing 
 
@@ -127,6 +138,7 @@ Tested the HTML and CSS code with no ERRORS
 
 ### Unfixed Bugs
 
+- Loading source map error
 
 
 ## Deployment
