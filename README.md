@@ -186,4 +186,4 @@ The live link can be found here - https://8000-mikaelkasunic-projectone-ffqzsz56
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - All images are taken from (https://pxhere.com) and (https://pexels.com)
 - Google fonts were used for the page: Quicksand and Lato
-- Inspiration from many different gym websites and my own experince from the gym industry
+- Inspiration from many different gym websites and my own experience from the gym industry
