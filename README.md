@@ -100,7 +100,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 - A workout schedule for the members with booking options.
 
-### Technologies used to create this project
+### Technologies/Libraries/Programs used to create this project
 
 - Google Chrome webbrowser during the whole process
 - HTML and CSS to make this static Front-End project
@@ -111,7 +111,6 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 - GitPod for developing the code
 - GitHub for deploying the project
 - Code Institute modules 
-- 
 
 ### Testing 
 
@@ -140,23 +139,35 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
 
 ### Unfixed Bugs
 
-- No bugs unfixed
-- Had a couple of them but all is corrected
+- No bugs unfixed.
+- Problem with favicon image at first, problem is solved.
 
 
-## Deployment
+### Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+- __Develop Project__
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- Open a repository in Gitpod
+- Click the Green "Gitpod" button
+- ReOpen from  "workspaces" at gitpod.io
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+# SAVE - COMMIT - PUSH
 
+- When changes in files are made, save first (ctrl+s)
+- Into the terminal/command line 
+- git add . (notice the space between thw word and the dot --> add .)
+- git -m "commit message" (your messeage, should be specific for the changes)
+- git push (push back to github)
 
-## Credits 
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+- Go to GitHub repository and navigate to the Settings tab
+- From the source section drop-down menu, select the Main Branch
+- Once the main branch has been selected, the page will be automatically refreshed with a display to indicate the successful deployment.
+
+The live link can be found here - https://8000-mikaelkasunic-projectone-ffqzsz56p23.ws-eu31.gitpod.io/
+
+### Credits 
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
