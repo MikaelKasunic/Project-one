@@ -56,7 +56,7 @@ Crossfit its beneficial for every person and we gladly introduce our users to th
   - Open hours for the facility.
   - Google maps with pin-point direction to the facility.
 
-![Footer](https://github.com/MikaelKasunic/Project-one/blob/8fae205cd52e965399dfe2caea4f79aaecf6e6ac/assets/images/footerone.jpg)
+![Footer](https://github.com/MikaelKasunic/Project-one/blob/9fdb2e5a56e0fab98d3f5ee47edc7df88844a199/assets/images/footerone.jpg)
 
 - __Crossfit History__
 
