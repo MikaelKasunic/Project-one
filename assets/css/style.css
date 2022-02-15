@@ -235,103 +235,53 @@ body {
 }
 
 
-#footer {
-
-    display: inline-block;
-    width: 100%;
-    
-
-}
-
 #openhours {
-    width: 33%;
-    height: 100%; 
-    margin-top: 40px;
-    margin-left: 10px;
+
+
     font-size: 20px;
-    text-align: left;
-    display: flex;
-    float: left;
     font-family: Quicksand;
     font-weight: bold;
+    text-shadow: 1px 1px 2px cyan, 0 0 25px whitesmoke, 0 0 5px cyan;
     color: #fff;
-    padding-top: 20px;
-    
+    float: left;
+    margin-left: 40px;
+
+
 }
+
 
 #findus {
-    width: 33%;
-    height: 100%;
-    display: flex;
+
     float: left;
-    font-family: Quicksand;
-    font-weight: bold;
-    color: #fff;
-   
+    margin-left: 160px;
+
 }
 
 #followus {
-    width: 33%;
-    height: 100%;
-    display: flex;
+
     float: right;
-    font-family: Quicksand;
-    font-weight: bold;
-    color: #fff;
-    
+    margin-right: 40px;
 }
 
-#follow {
-    font-family: Quicksand;
-    color: red;
-    text-align: center;
-   
-  
-    
-}
-
-#find {
-    font-family: Quicksand;
-    color: mediumseagreen;
-
-    font-size: 20px;
-  
-    
-}
-
-#opens {
-    font-family: Quicksand;
-    color: #fff;
-    text-shadow: 2px 2px 8px cyan;
-    text-align: left;
-    padding-left: 60px;
-    font-size: 20px;
-   
-    
-}
 
 th,
 td {
     padding: 2px;
 }
 
-#google {
-    margin-top: 20px;
-    width: 70%;
-    height: 70%;
-    border: none;
-}
 
 #followus ul li {
-    display: inline-block;
+
     letter-spacing: 50px;
     font-size: 50px;
-    margin-left: 5px;
-    margin-top: 25px;
+    list-style-type: none;
+    float: left;
 }
 
 i {
     color: cyan;
+    text-shadow: 1px 1px 2px cyan, 0 0 25px cyan, 0 0 5px whitesmoke;
+
 }
 
 #heroo {
@@ -342,42 +292,44 @@ i {
 
 /* for medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-   #sectiontwo {
-       display: flex;
-       flex-direction: column;
-   }
+    #sectiontwo {
+        display: flex;
+        flex-direction: column;
+    }
 
-   #cf, #join, #started {
-       margin: 0 auto;
-       width: 90%;
-   }
+    #cf,
+    #join,
+    #started {
+        margin: 0 auto;
+        width: 90%;
+    }
 
-   #footercontainer {
-       display: flex;
-       flex-direction: column;
-       
-       
-   }
+    #footercontainer {
+        display: flex;
+        flex-direction: column;
 
-   #openhours {
-     margin: 0 auto;
-     text-align: left;
-     
-   }
 
-   #findus {
-     margin: 0 auto;
-     text-align: center;
-     
-   }
+    }
 
-   #followus {
-       margin: 0 auto;
-       text-align: center;
-       
-   }
+    #openhours {
+        margin: 0 auto;
+        text-align: left;
 
-       
+    }
+
+    #findus {
+        margin: 0 auto;
+        text-align: center;
+
+    }
+
+    #followus {
+        margin: 0 auto;
+        text-align: center;
+
+    }
+
+
 }
 
 /* for medium screen sizes from 950px wide and down */
@@ -398,33 +350,37 @@ i {
         display: flex;
         flex-direction: column;
     }
- 
-    #cf, #join, #started {
+
+    #cf,
+    #join,
+    #started {
         margin: 0 auto;
         width: 90%;
         margin-bottom: 5px;
     }
 
-    
+
     #logo {
         display: none;
     }
 
-    
+
     #footer-container {
         display: flex;
         flex-direction: column;
 
     }
 
-    #opens, #find, #follow {
+    #opens,
+    #find,
+    #follow {
         display: flex;
         float: left;
         padding-left: 5px;
     }
 
 
- 
+
 }
 
 /* for medium screen sizes from px wide and down */
@@ -436,19 +392,24 @@ i {
     #icon-container {
         display: flex;
         flex-direction: column;
-        
-      }
 
-      #icon-container, #lift, #eat, #feel {
-       margin: 0 auto;
-      }
+    }
 
-      #openhours, #findus, #followus {
-          margin: 0 auto;
-      }
+    #icon-container,
+    #lift,
+    #eat,
+    #feel {
+        margin: 0 auto;
+    }
+
+    #openhours,
+    #findus,
+    #followus {
+        margin: 0 auto;
+    }
+
+    #findus {
+        width: 200px;
+    }
 
 }
-
-
-
-    
